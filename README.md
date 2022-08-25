@@ -8,8 +8,6 @@
 To download Alzheimer's disease neuroimaging initiative dataset
 * https://adni.loni.usc.edu/
 
-To download Gwangju Alzheimer’s and Related Dementia
-
 ## How to Run
 ### Counterfactual Map Generation
 Mode: #0 Learn, #1 Explain

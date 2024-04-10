@@ -15,6 +15,20 @@ This repository provides a TensorFlow implementation of the following paper:
 - We achieved similar or better performance than DL-based models by designing a shallow network of lightweight counterfactual-guided attentive feature representation and a linear classifier (LiCoL) with the AD-effect ROIs considered to be the distinctive AD-related landmarks via counterfactual-guided deep features.
 - By exploiting our proposed LiCoL, we provide a numerically interpretable AD-relatedness index for each patient as well as patient groups with respect to anatomical variations caused by AD progression.
 
+<p align="center"><img width="80%" src="https://github.com/ku-milab/LiCoL/assets/57162425/17ef8f9e-d315-4b13-b3b8-eed65f1f2ecd" /></p>
+
+## Qualitative Analyses
+### Illustration of inferred AD-effect and statistical maps in binary and multi-class scenarios
+<p align="center"><img width="100%" src="https://github.com/ku-milab/LiCoL/assets/57162425/d9fae7e4-a506-4fdd-b36f-19f7bb29b54f" /></p>
+<p align="center"><img width="65%" src="https://github.com/ku-milab/LiCoL/assets/57162425/532c56a6-d412-4822-b89b-1e3d8b6b3c0a" /></p>
+
+### Visualization of a normalized AD-relatedness index over the group-wise (first column) and individuals (second and third columns) 
+<p align="center"><img width="100%" src="https://github.com/ku-milab/LiCoL/assets/57162425/2168d64a-6c21-46bc-a6c6-2deabd9ae2be" /></p>
+
+## Quantitative Evaluations
+<p align="center"><img width="100%" src="https://github.com/ku-milab/LiCoL/assets/57162425/7438832c-9fff-48ea-a46c-ba6306e8c7e4" /></p>
+<p align="center"><img width="50%" src="https://github.com/ku-milab/LiCoL/assets/57162425/44d146ef-5884-4f98-9f8a-6f50ee7ef060" /></p>
+
 ## Requirements
 * [TensorFlow 2.2.0+](https://www.tensorflow.org/)
 * [Python 3.6+](https://www.continuum.io/downloads)

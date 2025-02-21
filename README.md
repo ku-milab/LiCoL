@@ -6,7 +6,7 @@ This repository provides a TensorFlow implementation of the following paper:
 > (<sup>2</sup>Department of Brain and Cognitive Engineering, Korea University) <br/>
 > (<sup>3</sup>Department of Biomedical Science and Gwangju Alzheimer’s & Related Dementia Cohort Research Center, Chosun University) <br/>
 > (<sup>4</sup>Korea Brain Research Institute) <br/>
-> Official Version: https://arxiv.org/pdf/2310.03457.pdf <br/>
+> Published in NeuroImage: https://www.sciencedirect.com/science/article/pii/S1053811925000795 <br/>
 > 
 > **Abstract:** *Deep learning (DL) for predicting Alzheimer’s disease (AD) has provided timely intervention in disease progression yet still demands attentive interpretability to explain how their DL models make definitive decisions. Recently, counterfactual reasoning has gained increasing attention in medical research because of its ability to provide a refined visual explanatory map. However, such visual explanatory maps based on visual inspection alone are insufficient unless we intuitively demonstrate their medical or neuroscientific validity via quantitative features. In this study, we synthesize the counterfactual-labeled structural MRIs using our proposed framework and transform it into a gray matter density map to measure its volumetric changes over the parcellated region of interest (ROI). We also devised a lightweight linear classifier to boost the effectiveness of constructed ROIs, promoted quantitative interpretation, and achieved comparable predictive performance to DL methods. Throughout this, our framework produces an “AD-relatedness index” for each ROI and offers an intuitive understanding of brain status for an individual patient and across patient groups with respect to AD progression.*
 
@@ -69,11 +69,13 @@ Mode: #0 Learn, #1 Explain
 If you find this work useful for your research, please cite the following paper:
 
 ```
-@article{oh2023quantitatively,
-  title={A Quantitatively Interpretable Model for Alzheimer's Disease Prediction Using Deep Counterfactuals},
+@article{oh2025quantitatively,
+  title={A quantitatively interpretable model for Alzheimer’s disease prediction using deep counterfactuals},
   author={Oh, Kwanseok and Heo, Da-Woon and Mulyadi, Ahmad Wisnu and Jung, Wonsik and Kang, Eunsong and Lee, Kun Ho and Suk, Heung-Il},
-  journal={arXiv preprint arXiv:2310.03457},
-  year={2023}
+  journal={NeuroImage},
+  pages={121077},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 

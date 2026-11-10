@@ -1,5 +1,5 @@
 # LiCoL
-This repository provides a TensorFlow implementation of the following paper:
+This repository provides a TensorFlow implementation of the following paper: 
 > **A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**<br>
 > [Kwanseok Oh](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)<sup>1</sup>, [Da-Woon Heo](https://scholar.google.co.kr/citations?user=WapMdZ8AAAAJ&hl=ko&oi=ao)<sup>1</sup>, [Ahmad Wisnu Mulyadi](https://scholar.google.co.kr/citations?user=u50w0cUAAAAJ&hl=ko)<sup>2</sup>, [Wonsik Jung](https://scholar.google.co.kr/citations?user=W4y-TAcAAAAJ&hl=ko)<sup>2</sup>, Eunsong Kang<sup>2</sup>, [Kunho Lee](https://scholar.google.co.kr/citations?user=AoXfBv8AAAAJ&hl=ko)<sup>3, 4, 5</sup>, and [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup><br/>
 > (<sup>1</sup>Department of Artificial Intelligence, Korea University) <br/>
